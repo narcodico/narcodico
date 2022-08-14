@@ -2,7 +2,7 @@
 
 I'm a freelance software engineer 👨‍💻
 
-- 🔭 I’m currently working on client apps and my personal project
+- 🔭 I’m currently working on client apps and my start-up
 - 🏋️‍♂️ I’m currently learning how to improve my squats and deadlifts
 - 💬 Ask me about Flutter, Dart and Firebase
 - 📫 How to reach me: rolly@narcodic.com
