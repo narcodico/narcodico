@@ -8,4 +8,4 @@ I'm a freelance software engineer 👨‍💻
 - 📫 How to reach me: rolly@narcodic.com
 - ⚡ Fun fact: I have a White Golden Retriever named Polo 🐾
 
-### Do you have an idea for an app? :bulb: Let's bring your idea to life! :tada:
+### $\textsf{\color{magenta}Do you have an idea for an app? :bulb: Let's bring your idea to life! :tada:}$
